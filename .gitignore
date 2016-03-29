@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# =========================
+# Node Packages
+# =========================
+bower_components\
+.vscode\
+node_modules\
+beautifyrc.json
