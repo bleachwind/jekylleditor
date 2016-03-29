@@ -51,6 +51,6 @@ app.get('/api/posts/:id', function(request, response) {
     response.send(jeApp.getPost(request.params.id));
 });
 
-//app.listen(port);
+app.listen(port);
 
 module.exports = app;
